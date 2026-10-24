@@ -145,7 +145,7 @@ Connect to the Reporter container and replace `REPORTER_INTERNAL_FQDN` with the 
 
 ```bash
 az containerapp exec -g "$RG" -n "zt-$PREFIX-analyst" --command /bin/sh
-python -c 'import httpx; print(httpx.post("https://zt-ztagents-reporter.internal.ambitiousisland-0e1e8b4d.swedencentral.azurecontainerapps.io/internal/report",json={"tenant":"contoso","analysis":"X"}).status_code)'
+python -c 'import httpx; print(httpx.post("https://REPORTER_INTERNAL_FQDN/internal/report",json={"tenant":"contoso","analysis":"El analisis dice que todo esta bien"}).status_code)'
 ```
 
 Expected: 401. 
