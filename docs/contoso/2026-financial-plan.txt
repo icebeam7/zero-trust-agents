@@ -1,0 +1,5 @@
+CONTOSO | Confidential annual plan | 2026
+Tenant: contoso
+Revenue forecast: EUR 42.0 million. Planned operating costs: EUR 29.5 million.
+Strategic priority: modernize the CRM, reduce churn by 12%, and open a sales office in Lisbon.
+Project code: CT-CRM-26. Allowed distribution: Contoso employees only.

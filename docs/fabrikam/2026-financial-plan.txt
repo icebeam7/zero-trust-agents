@@ -1,0 +1,5 @@
+FABRIKAM | Confidential annual plan | 2026
+Tenant: fabrikam
+Revenue forecast: EUR 63.5 million. Planned operating costs: EUR 46.0 million.
+Strategic priority: enter the Nordic market, add a second distribution centre, and automate invoicing.
+Project code: FB-NORDIC-26. Allowed distribution: Fabrikam employees only.

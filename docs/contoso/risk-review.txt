@@ -1,0 +1,5 @@
+CONTOSO | Internal risk review | 2026
+Tenant: contoso
+Risk A: supply-chain concentration in one provider. Mitigation: diversify suppliers by Q4.
+Risk B: customer churn in midmarket. Mitigation: predictive retention program.
+Risk C: cloud spend above plan. Mitigation: cost allocation tags and monthly review.

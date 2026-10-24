@@ -1,0 +1,5 @@
+FABRIKAM | Internal risk review | 2026
+Tenant: fabrikam
+Risk A: foreign exchange volatility. Mitigation: quarterly hedging policy.
+Risk B: delays in new Nordic distribution centre. Mitigation: milestone-linked vendors.
+Risk C: identity sprawl. Mitigation: quarterly least privilege review.

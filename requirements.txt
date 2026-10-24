@@ -1,0 +1,12 @@
+azure-identity>=1.20
+azure-storage-blob>=12.22
+azure-search-documents>=11.6
+azure-core>=1.32
+openai>=1.70
+agent-framework-openai>=1.0
+fastapi>=0.115
+uvicorn[standard]>=0.32
+httpx>=0.28
+python-dotenv>=1.0
+PyJWT[crypto]>=2.10
+pydantic>=2.9
