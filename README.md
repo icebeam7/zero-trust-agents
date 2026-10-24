@@ -4,7 +4,7 @@ This project creates actual Azure OpenAI deployment (Foundry Models), Azure AI S
 
 ## Architecture
 
-![./images/Azure agent gateway architecture](<Azure Agent Gateway Architecture Diagram.png>)
+![Azure agent gateway architecture](<./images/Azure Agent Gateway Architecture Diagram.png>)
 
 * Azure AI Search contains an index with **tenant** filter. 
     - Azure AI Search stores documents from multiple customers in the same search index, but every document has a tenant `field` identifying which customer owns it.
